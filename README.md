@@ -1,5 +1,6 @@
 <!--
 CONFIG
-FULL NAME: Angel Gustavo Solano Trujillo
-GITHUB USER: AsolanoT
+FULL_NAME: Angel Gustavo Solano Trujillo
+STACK: Go · Spring Boot · PostgreSQL
+GITHUB_USER: AsolanoT
 -->
